@@ -2,7 +2,7 @@
 <!--
 **rmiah209/rmiah209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<a href="https://app.daily.dev/rm209"><img src="https://api.daily.dev/devcards/v2/DsHW5hquVBtRD9VhNo1vM.png?r=x60&type=default" width="356" alt="Raheem Miah's Dev Card"/></a>
+<a href="https://app.daily.dev/rm209"><img src="https://api.daily.dev/devcards/v2/DsHW5hquVBtRD9VhNo1vM.png?r=x60&type=wide" width="652" alt="Raheem Miah's Dev Card"/></a>
 - 🔭 I’m currently working on a docstring generator for Python.
 - 🌱 I’m currently learning Javascript.
 - 👯 I’m hoping to collaborate on public projects once I am proficient enough with Python.
